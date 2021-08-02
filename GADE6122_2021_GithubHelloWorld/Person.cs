@@ -8,6 +8,6 @@ namespace GADE6122_2021_GithubHelloWorld
 {
     class Person
     {
-        //This is a person class
+        //This is a person class blah blah
     }
 }

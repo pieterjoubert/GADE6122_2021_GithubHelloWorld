@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace GADE6122_2021_GithubHelloWorld
 {
@@ -10,7 +6,8 @@ namespace GADE6122_2021_GithubHelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Leago Mokoena");
         }
     }
 }

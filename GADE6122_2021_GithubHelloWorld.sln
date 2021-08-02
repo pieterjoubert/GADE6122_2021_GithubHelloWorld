@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.31424.327
+VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GADE6122_2021_GithubHelloWorld", "GADE6122_2021_GithubHelloWorld\GADE6122_2021_GithubHelloWorld.csproj", "{CBE90277-464C-43BF-8D26-F09846918421}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GADE6122_2021_GithubHelloWorld", "GADE6122_2021_GithubHelloWorld\GADE6122_2021_GithubHelloWorld.csproj", "{73427245-0BEB-4423-A947-BBDA4885AE3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CBE90277-464C-43BF-8D26-F09846918421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CBE90277-464C-43BF-8D26-F09846918421}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CBE90277-464C-43BF-8D26-F09846918421}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CBE90277-464C-43BF-8D26-F09846918421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73427245-0BEB-4423-A947-BBDA4885AE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73427245-0BEB-4423-A947-BBDA4885AE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73427245-0BEB-4423-A947-BBDA4885AE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73427245-0BEB-4423-A947-BBDA4885AE3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BD3865A6-BA3C-40B9-B1BD-02A811C06C3F}
+		SolutionGuid = {EE1DEA90-D078-4807-AF4A-547B47D78423}
 	EndGlobalSection
 EndGlobal

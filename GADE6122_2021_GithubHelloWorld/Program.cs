@@ -11,7 +11,7 @@ namespace GADE6122_2021_GithubHelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            Console.WriteLine("Hello Pieter");
+            Console.WriteLine("Hello Pieter Joubert");
         }
     }
 }
